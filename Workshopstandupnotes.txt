@@ -1,0 +1,12 @@
+Shean:
+Worked on her SE group project. Read documentation, learned about their project code. 
+
+Sarthak:
+Started working on project. Needs to complete SE HWs and work more on project. Blocked in connecting frameworks and bot functionalites.
+
+Kanad:
+Working on ML HW. Need to complete ethics project and SE HW. Blocked with problems in ML HW.
+
+DSM:
+Very time consuming so should be limited to one short meeting a day which does not include solving individual problems. It is beneficial for the team to have brief standups. 
+For SE Projects, we can have weekly standups instead of DSMs. This way we can summarize weekly work achievements, to-dos for next week and work on things blocking each member.
