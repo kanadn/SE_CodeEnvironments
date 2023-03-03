@@ -1,0 +1,11 @@
+Name: Sarthak Banerjee
+
+Role: Timekeeper
+Made sure that we gave equal amount of time for the two meetings agenda's we had to complete. 
+
+Agenda:
+-Talk about what we did, what we need to do and what is blocking us: 5mins
+-Discuss whether or not stand up meeting should or should not have daily stand up meetings in SE projects: 5mins
+
+Minitues: 10 minitues
+
